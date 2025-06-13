@@ -12,7 +12,7 @@ print()
 # 3. Imprimir la variable
 print(company)
 
-print()
+print(company)
 
 # 4. Imprimir longitud
 print(len(company))
