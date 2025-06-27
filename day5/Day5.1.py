@@ -17,6 +17,7 @@ if n % 2 == 0:
     median = (ages[n//2 - 1] + ages[n//2]) / 2
 else:
     median = ages[n//2]
+
 # Promedio
 average = sum(ages) / len(ages)
 
